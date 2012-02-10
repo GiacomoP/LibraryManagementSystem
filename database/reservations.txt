@@ -1,0 +1,3 @@
+7;3;150;Analisi;Informatica;12;Oral;120116;900;4
+6;1;150;Programmazione;Informatica;12;Written;120115;1630;3
+5;1;150;Fondamenti_Informatica;Informatica;6;Written;120115;1000;2

@@ -1,0 +1,18 @@
+Library Management System
+
+What is it?
+-------------
+
+This is a project I made for a college C Programming lab class.
+It is intended to be only for educational purpose.
+You can do whatever you want with this code.
+
+CHANGELOG
+-------------
+
+1.0 - base version
+
+KNOWN ISSUES
+-------------
+
+I used the command system("cls") to clear the screen, it may not work with OSs different from Windows.
